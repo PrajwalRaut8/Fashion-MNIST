@@ -1,8 +1,7 @@
 # Fashion-MNIST
 created a prediction model based on the dataset of clothes and wearable which will predict if a particular item is a tshirt, sandals or something like that.
 # MNIST Dataset: A Benchmark for AI/ML Algorithms
-
-![MNIST Dataset](mnist.png)
+![download](https://github.com/PrajwalRaut8/Fashion-MNIST/assets/143160391/9e3ebaf2-d1ad-419a-9a50-711f22330d37)
 
 The original MNIST dataset contains a vast collection of handwritten digits. This dataset has gained immense popularity within the AI/ML/Data Science community, serving as a benchmark to validate various algorithms. In fact, it's often considered the first dataset that researchers attempt. There's a saying among practitioners, "If it doesn't work on MNIST, it won't work at all." However, the reality is, "If it does work on MNIST, it may still fail on others."
 
